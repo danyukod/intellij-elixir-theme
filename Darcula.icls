@@ -1,0 +1,119 @@
+<scheme name="Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-05-12T18:01:06</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-05-12T18:01:17</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <attributes>
+    <option name="ELIXIR_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="e4bf7b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ELIXIR_ATOM">
+      <value>
+        <option name="FOREGROUND" value="55b4c0" />
+      </value>
+    </option>
+    <option name="ELIXIR_BIT">
+      <value>
+        <option name="FOREGROUND" value="c477d0" />
+      </value>
+    </option>
+    <option name="ELIXIR_BRACES">
+      <value>
+        <option name="FOREGROUND" value="89a6bd" />
+      </value>
+    </option>
+    <option name="ELIXIR_BRACKET">
+      <value>
+        <option name="FOREGROUND" value="7aaabd" />
+      </value>
+    </option>
+    <option name="ELIXIR_CHAR_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="f14643" />
+      </value>
+    </option>
+    <option name="ELIXIR_COMMA">
+      <value>
+        <option name="FOREGROUND" value="a6aea3" />
+      </value>
+    </option>
+    <option name="ELIXIR_DOT">
+      <value>
+        <option name="FOREGROUND" value="a6aea3" />
+      </value>
+    </option>
+    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK">
+      <value>
+        <option name="FOREGROUND" value="96afbe" />
+      </value>
+    </option>
+    <option name="ELIXIR_MACRO_CALL">
+      <value>
+        <option name="FOREGROUND" value="c278dc" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ELIXIR_MAP">
+      <value>
+        <option name="FOREGROUND" value="aab1ba" />
+      </value>
+    </option>
+    <option name="ELIXIR_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="9b76dc" />
+      </value>
+    </option>
+    <option name="ELIXIR_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="aab1be" />
+      </value>
+    </option>
+    <option name="ELIXIR_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="a9b1bc" />
+      </value>
+    </option>
+    <option name="ELIXIR_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="282c37" />
+      </value>
+    </option>
+    <option name="ELIXIR_SIGIL">
+      <value>
+        <option name="FOREGROUND" value="7facbe" />
+      </value>
+    </option>
+    <option name="ELIXIR_STRING">
+      <value>
+        <option name="FOREGROUND" value="5c6370" />
+      </value>
+    </option>
+    <option name="ELIXIR_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="aab1ba" />
+      </value>
+    </option>
+    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="415a6f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="7facbe" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
